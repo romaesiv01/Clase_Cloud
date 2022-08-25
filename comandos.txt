@@ -1,7 +1,0 @@
-# Comandos Básicos Git 
-
-git pull
-git status
-git add .
-git commit -m "Nombre"
-git push origin main
